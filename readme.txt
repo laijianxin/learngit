@@ -12,3 +12,6 @@ git commit -m "提交信息"
 git remote add origin git@github.com:laijainxin/learngit,git
 
 git push -u origin master
+
+
+家里测试！
